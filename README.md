@@ -1,4 +1,5 @@
 # Light-G4
+## ✅ Google Analytics 4 Support
 
 A simple theme for [Hexo].
 
