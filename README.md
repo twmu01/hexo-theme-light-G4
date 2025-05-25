@@ -2,7 +2,7 @@
 
 A simple theme for [Hexo].
 
-This is an upgraded version of analytics for the Lignt theme. The original theme used an old version of analytics, which is no longer available.
+This is an upgraded version of Google analytics for the Lignt theme. The original theme used an old version of Google analytics, which is no longer available.
 
 ## Install
 
