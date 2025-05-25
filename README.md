@@ -1,13 +1,15 @@
-# Light
+# Light-G4
 
 A simple theme for [Hexo].
+
+This is an upgraded version of analytics for the Lignt theme. The original theme used an old version of analytics, which is no longer available.
 
 ## Install
 
 Execute the following command and modify `theme` in `_config.yml` to `light`.
 
 ```
-git clone --depth 1 https://github.com/hexojs/hexo-theme-light themes/light
+git clone --depth 1 https://github.com/twmu01/hexo-theme-light-G4.git themes/light
 ```
 
 ``` diff
